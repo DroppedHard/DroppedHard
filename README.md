@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Szymon. I'm a Computer Student at AGH UST. On this profile I have almost all the projects I've done since my first stpes into the world of Computer Science
+My name is Szymon. I'm a Computer Science Student at AGH UST. On this profile I have almost all the projects I've done since my first stpes into the world of Computer Science
 <!--
 **DroppedHard/DroppedHard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
